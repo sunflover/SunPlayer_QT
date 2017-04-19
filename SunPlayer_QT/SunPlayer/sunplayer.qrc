@@ -1,0 +1,105 @@
+<RCC>
+	<qresource prefix="/qss">
+		<file alias="QSlider">QSlider.qss</file>	
+	</qresource>
+	
+    <qresource prefix="/title">
+		<file alias="menu">img/title/menu.png</file>
+		<file alias="menu_hover">img/title/menu_hover.png</file>
+		<file alias="menu_pressed">img/title/menu_pressed.png</file>
+		
+		<file alias="pin">img/title/pin.png</file>
+		<file alias="pin_hover">img/title/pin_hover.png</file>
+		<file alias="pin_pressed">img/title/pin_pressed.png</file>
+		
+		<file alias="unpin">img/title/unpin.png</file>
+		<file alias="unpin_hover">img/title/unpin_hover.png</file>
+		<file alias="unpin_pressed">img/title/unpin_pressed.png</file>
+		
+		<file alias="min">img/title/min.png</file>
+		<file alias="min_hover">img/title/min_hover.png</file>
+		<file alias="min_pressed">img/title/min_pressed.png</file>
+		
+		<file alias="max">img/title/max.png</file>
+		<file alias="max_hover">img/title/max_hover.png</file>
+		<file alias="max_pressed">img/title/max_pressed.png</file>
+		
+		<file alias="restore">img/title/restore.png</file>
+		<file alias="restore_hover">img/title/restore_hover.png</file>
+		<file alias="restore_pressed">img/title/restore_pressed.png</file>
+		
+		<file alias="full">img/title/full.png</file>
+		<file alias="full_hover">img/title/full_hover.png</file>
+		<file alias="full_pressed">img/title/full_pressed.png</file>
+		
+		<file alias="full_restore">img/title/full_restore.png</file>
+		<file alias="full_restore_hover">img/title/full_restore_hover.png</file>
+		<file alias="full_restore_pressed">img/title/full_restore_pressed.png</file>
+		
+		<file alias="close">img/title/close.png</file>
+		<file alias="close_hover">img/title/close_hover.png</file>
+		<file alias="close_pressed">img/title/close_pressed.png</file>	
+    </qresource>
+	
+	<qresource prefix="/ctrl">
+		<file alias="fast_backward">img/ctrl/fast_backward.png</file>
+		<file alias="fast_backward_hover">img/ctrl/fast_backward_hover.png</file>
+		<file alias="fast_backward_pressed">img/ctrl/fast_backward_pressed.png</file>
+		
+		<file alias="fast_forward">img/ctrl/fast_forward.png</file>
+		<file alias="fast_forward_hover">img/ctrl/fast_forward_hover.png</file>
+		<file alias="fast_forward_pressed">img/ctrl/fast_forward_pressed.png</file>
+		
+		<file alias="open">img/ctrl/open.png</file>
+		<file alias="open_hover">img/ctrl/open_hover.png</file>
+		<file alias="open_pressed">img/ctrl/open_pressed.png</file>
+		
+		<file alias="stop">img/ctrl/stop.png</file>
+		<file alias="stop_hover">img/ctrl/stop_hover.png</file>
+		<file alias="stop_pressed">img/ctrl/stop_pressed.png</file>
+
+		<file alias="previous">img/ctrl/previous.png</file>
+		<file alias="previous_hover">img/ctrl/previous_hover.png</file>
+		<file alias="previous_pressed">img/ctrl/previous_pressed.png</file>
+		
+		<file alias="play">img/ctrl/play.png</file>
+		<file alias="play_hover">img/ctrl/play_hover.png</file>
+		<file alias="play_pressed">img/ctrl/play_pressed.png</file>
+
+		<file alias="pause">img/ctrl/pause.png</file>
+		<file alias="pause_hover">img/ctrl/pause_hover.png</file>
+		<file alias="pause_pressed">img/ctrl/pause_pressed.png</file>
+		
+		<file alias="next">img/ctrl/next.png</file>
+		<file alias="next_hover">img/ctrl/next_hover.png</file>
+		<file alias="next_pressed">img/ctrl/next_pressed.png</file>		
+
+		<file alias="vol">img/ctrl/vol.png</file>
+		<file alias="vol_hover">img/ctrl/vol_hover.png</file>
+		<file alias="vol_pressed">img/ctrl/vol_pressed.png</file>
+
+		<file alias="vol_off">img/ctrl/vol_off.png</file>
+		<file alias="vol_off_hover">img/ctrl/vol_off_hover.png</file>
+		<file alias="vol_off_pressed">img/ctrl/vol_off_pressed.png</file>
+		
+		<file alias="full">img/ctrl/full.png</file>
+		<file alias="full_hover">img/ctrl/full_hover.png</file>
+		<file alias="full_pressed">img/ctrl/full_pressed.png</file>	
+		
+		<file alias="full_restore">img/ctrl/full_restore.png</file>
+		<file alias="full_restore_hover">img/ctrl/full_restore_hover.png</file>
+		<file alias="full_restore_pressed">img/ctrl/full_restore_pressed.png</file>	
+
+		<file alias="sizebox">img/ctrl/sizebox.png</file>
+		<file alias="sizebox_hover">img/ctrl/sizebox_hover.png</file>
+		<file alias="sizebox_pressed">img/ctrl/sizebox_pressed.png</file>	
+	</qresource>
+	
+	<qresource prefix="/ico">
+		<file alias="player">img/player.ico</file>
+	</qresource>
+	
+	<qresource prefix="/player">
+		<file alias="player">img/player.png</file>
+	</qresource>
+</RCC>
